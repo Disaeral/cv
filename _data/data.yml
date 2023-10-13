@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: o1515584@gmail.com
   phone: 070 1229 8337
-  timezone: JST
+  timezone: JST (UTC+09:00)
   citizenship:
   # website: blog.webjeda.com #do not add http://
   linkedin: ilya-novitsky-0b0b561a1
@@ -42,6 +42,7 @@ career-profile:
   title: Career Profile
   summary: |
     Frontend developer with some backend developing expirience. Technical background includes wide variety of skills from webpage templating engines to unit-tests and backend development expirience. Very good communicative skills, constantly searching for new challenges and opportunities for growth.
+    Feel free to contact me.
 education:
   title: Education
   info:
@@ -81,6 +82,9 @@ skills:
 
   toolset:
     - name: Javascript
+      level: 98%
+
+    - name: Git
       level: 98%
 
     - name: React
